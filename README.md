@@ -18,8 +18,8 @@ You can observe changes in db.json when you interact with the app to add or dele
 
 
 ## Built with
-- [React]
-- [TypeScript]
-- [Tailwind CSS]
+- React
+- TypeScript
+- Tailwind CSS
 - [Json-server](https://github.com/typicode/json-server)
 - [uuid](https://github.com/uuidjs/uuid)
